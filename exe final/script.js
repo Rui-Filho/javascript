@@ -55,19 +55,7 @@ function finalizar(){
                 maior= valores[pos]
             if(valores[pos] < menor)
                 menor=valores[pos]
-        
-            
-        }
-        media = soma / tot
-        res.innerHTML=''
-        res.innerHTML += `<p> Ao todo, temos ${tot} números cadastrados.</p>`
-        res.innerHTML += `<p> O maior valor informado foi ${maior}.</p>`
-        res.innerHTML += `<p> O menor valor informado foi ${menor}.</p>`
-        res.innerHTML += `<p> Somndo os valores, temos ${soma}.</p>`
-        res.innerHTML += `<p> A média dos valores foi ${media}.</p>`
-    }
 
 
-}
 
-
+çççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççççç
